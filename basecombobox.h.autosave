@@ -1,0 +1,11 @@
+#ifndef BASECOMBOBOX_H
+#define BASECOMBOBOX_H
+
+
+class BaseComboBox
+{
+public:
+    BaseComboBox();
+};
+
+#endif // BASECOMBOBOX_H
